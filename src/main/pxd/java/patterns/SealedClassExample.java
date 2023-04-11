@@ -2,6 +2,7 @@ package pxd.java.patterns;
 
 public class SealedClassExample {
 
+    /*
     public void testSealed(Vehicle vehicle) {
         final String code = switch (vehicle) {
             case Car car -> "C";
@@ -9,5 +10,6 @@ public class SealedClassExample {
             case Plane plane -> "P";
         };
     }
+     */
 
 }
